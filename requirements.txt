@@ -1,0 +1,9 @@
+streamlit
+pandas
+pymongo
+pymongo[srv]
+boto
+python-decouple
+plotly_express
+datetime
+
